@@ -13,9 +13,9 @@ Topics include:
 
 ### Blogs
 
-http://www.devttys0.com/
-http://hackaday.com
-https://dontstuffbeansupyournose.com/
+http://www.devttys0.com/ <br>
+http://hackaday.com <br>
+https://dontstuffbeansupyournose.com/ <br>
 
 ### Books
 
