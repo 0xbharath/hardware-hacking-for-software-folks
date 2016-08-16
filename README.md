@@ -1,6 +1,6 @@
-# Hardware hacking for software folks - Resources
+# Hardware hacking for software folks
 
-Aggregated resources on hardware hacking/embeded device exploitation for software exploitation people. 
+Aggregated resources on hardware hacking/embedded device exploitation for software exploitation people. 
 
 **Feel free to make any additions that are you think will fit in this list**
 
@@ -23,7 +23,7 @@ https://dontstuffbeansupyournose.com/ <br>
 - Hacking the Xbox https://www.nostarch.com/xboxfree
 - Car hacker's handbook(GPL 3.0) http://opengarages.org/handbook/
 
-## Electrics/Electronics stuff
+## Electric/Electronic stuff
 - EEVBlog
 https://www.youtube.com/user/EEVblog/videos
 
@@ -39,8 +39,8 @@ http://security.cs.rpi.edu/courses/hwre-spring2014/
 - Beagle Board
 - ARMini
 - CuBox
-- Pandaboard
-- gumstix
+- Panda board
+- Gumstix
 
 ### Hacker gadgets
 
@@ -54,7 +54,8 @@ http://www.grandideastudio.com/portfolio/jtagulator
 
 **QEMU** - For emulating ARM architecture on your X86 machines.
 
-** Interfacing software**
+
+**Interfacing software**
 
 - Minicom
 - OpenOCD
@@ -67,9 +68,9 @@ http://www.grandideastudio.com/portfolio/jtagulator
 - Binwalk firmware analysis tool
 - Binary Analysis Tool
 - Firmadyne
-- Flashrom for capturing file systems
+- Flashrom
 
-**Binary analsis & Reverse engineering tools**
+**Binary analysis & Reverse engineering tools**
 
 - IDA pro
 - Radare 2
@@ -80,7 +81,7 @@ http://www.grandideastudio.com/portfolio/jtagulator
 - Chaos Communication Congress
 https://www.youtube.com/user/CCCen/videos
 
-- Hardware.io
+- Hardware.io http://hardwear.io/
 
 
 ## Projects
@@ -101,7 +102,7 @@ https://www.tacnetsol.com/collections/2016-live-training/products/iot-firmware-e
 - Offensive IoT exploitation
 http://nullcon.net/website/nullcon-bang-2016/training/offensive_iot_exploitation_training.php
 
-- PentesterAcademy - Make your own Hacker Gadget
+- Pentester Academy - Make your own Hacker Gadget
 
 ## People
 
@@ -114,4 +115,3 @@ http://nullcon.net/website/nullcon-bang-2016/training/offensive_iot_exploitation
 
 ## Other links
 http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/
-
