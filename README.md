@@ -2,12 +2,13 @@
 
 Aggregated resources on hardware hacking/embedded device exploitation for software exploitation people. 
 
-**Feel free to make any additions that are you think will fit in this list**
-
 Topics include:
 - Hardware hacking.
 - Firmware analysis.
 - ARM | MIPS exploitation.
+
+**Feel free to add any resources that you think will fit in this list**
+
 
 ## Reading material
 
