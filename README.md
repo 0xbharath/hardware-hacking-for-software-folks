@@ -33,6 +33,11 @@ https://www.youtube.com/user/EEVblog/videos
 - Hardware reverse engineering by RPISEC
 http://security.cs.rpi.edu/courses/hwre-spring2014/
 
+- Introduction to ARM architecture
+opensecuritytraining.info/IntroARM.html
+
+
+
 ## Hardware
 
 ### ARM Boards
@@ -75,14 +80,15 @@ http://www.grandideastudio.com/portfolio/jtagulator
 
 - IDA pro
 - Radare 2
-- Hopper (not light on your wallet)
+- Hopper
 
 ## Conferences
 
 - Chaos Communication Congress
 https://www.youtube.com/user/CCCen/videos
 
-- Hardware.io http://hardwear.io/
+- Hardware.io 
+http://hardwear.io/
 
 
 ## Projects
@@ -94,16 +100,22 @@ https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project
 https://github.com/praetorian-inc/DVRF
 
 ## Paid courses
+
 - SEx via HEx by xipiter
 http://www.sexviahex.com/
 
 - IoT Firmware Exploitation
 https://www.tacnetsol.com/collections/2016-live-training/products/iot-firmware-exploitation
 
-- Offensive IoT exploitation
+- Offensive IoT Exploitation
 http://nullcon.net/website/nullcon-bang-2016/training/offensive_iot_exploitation_training.php
 
+- Pentester Academy: Offensive IoT exploitation
+www.pentesteracademy.com/course?id=27
+
 - Pentester Academy - Make your own Hacker Gadget
+www.pentesteracademy.com/course?id=15
+
 
 ## People
 
