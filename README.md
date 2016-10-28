@@ -34,7 +34,7 @@ https://www.youtube.com/user/EEVblog/videos
 http://security.cs.rpi.edu/courses/hwre-spring2014/
 
 - Introduction to ARM architecture
-opensecuritytraining.info/IntroARM.html
+http://www.opensecuritytraining.info/IntroARM.html
 
 
 
@@ -111,10 +111,10 @@ https://www.tacnetsol.com/collections/2016-live-training/products/iot-firmware-e
 http://nullcon.net/website/nullcon-bang-2016/training/offensive_iot_exploitation_training.php
 
 - Pentester Academy: Offensive IoT exploitation
-www.pentesteracademy.com/course?id=27
+https://www.pentesteracademy.com/course?id=27
 
 - Pentester Academy - Make your own Hacker Gadget
-www.pentesteracademy.com/course?id=15
+https://www.pentesteracademy.com/course?id=15
 
 
 ## People
